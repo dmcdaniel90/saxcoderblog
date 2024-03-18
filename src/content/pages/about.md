@@ -10,34 +10,28 @@ seo:
 
 ![Alt text for image](/about.jpeg)
 
-**Note!:** This about page is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+## Devin McDaniel - Web Developer / Musician
 
-## Ethan Donovan - Web Developer based in Estonia
-
-**Greetings!** I'm Ethan Donovan, a passionate web developer residing in the picturesque landscapes of [Estonia](https://en.wikipedia.org/wiki/Estonia). With a keen eye for design and a love for crafting seamless digital experiences, I bring a unique blend of creativity and technical expertise to the world of web development.
+**Hi there!** I'm Devin McDaniel, a former cruise ship musician from the USA now turned web developer based in England, United Kingdom. When I'm not building and studying, I enjoy spening time with my wife and 1-year old son, cooking, and playing the saxophone. My journey into web development was inspired by my love for music and technology, and I'm excited to share my story with you.
 
 ## Skills and Expertise
 
-I specialize in front-end and back-end development, utilizing the latest technologies to build responsive and user-friendly websites. My proficiency includes **HTML**, **CSS**, **JavaScript**, and frameworks such as **Astro.js** for dynamic and interactive user interfaces. On the server side, I'm well-versed in Node.js and have experience with database management systems like MongoDB.
+As a new developer, I have specialised in full-stack development with a focus on front-end technologies. I particularly enjoy working with **React** and **NextJS**, and most recently, **Astro**. On the backend, I have experience with **Node.js** and **Express**, and I'm always eager to expand my knowledge and explore new technologies. As a musician of over 20 years, I bring a unique perspective to web development, combining my passion for creativity and innovation with a strong foundation in technical skills.
 
-## Innovation and Problem-Solving
+## World Traveler
 
-I thrive on solving complex problems and transforming ideas into functional, elegant websites. Whether it's optimizing performance, implementing new features, or troubleshooting issues, I approach each challenge with enthusiasm and a commitment to delivering high-quality solutions.
+After graduating from the **University of North Texas in 2012 (M.M. in Jazz Studies)**, I embarked on a journey as a professional musician, performing on cruise ships around the world. This experience allowed me to explore new cultures, meet people from diverse backgrounds, and develop a deep appreciation for the power of music to connect people across borders. Every contract brought new exciting challenges and experiences, and I'm grateful for the opportunity to have seen the world through the lens of music. I met my wife, while working on a ship, and we now live in England with our son.
 
-## Global Perspective, Local Impact
+## Transition to Web Development
 
-Living in Estonia has not only influenced my appreciation for nature and culture but has also shaped my approach to web development. I understand the importance of creating digital solutions that resonate with local audiences while maintaining a global perspective.
+Following the Covid-19 pandemic, the cruise industry came to a halt, and I found myself at a crossroads. Initially, I was uncertain about my future and how to transition to a new career while unable to leave home. I utilized my expertise and music and passion in technology to explore electronic music production and while I found it interesting and enjoyable, I was drawn to the world of web development. I was inspired by the creativity and innovation in the tech industry and decided to pursue a career in web development. I started with [freeCodeCamp](https://freeCodeCamp.org/dmcdaniel9) and eventually became a member of [ZeroToMastery Academy](https://zerotomastery.io), furthering my journey to become a full-stack developer.
+
+I am currently employed by [The Rolo Group](https://therologroup.co.uk) as Systems Developer and studying a DevOps Apprenctice with [Kaplan](https://kaplan.co.uk).
 
 ## Continuous Learning
 
-The dynamic nature of the tech industry inspires me to stay up-to-date with the latest trends and advancements. I'm always eager to expand my skill set and embrace emerging technologies that enhance the functionality and aesthetics of the websites I create.
-
-## Collaboration and Communication
-
-I believe in the power of collaboration and effective communication. Whether working with clients, designers, or fellow developers, I value clear communication to ensure the success of every project.
+I am passionate about continuous learning and personal growth. I am always seeking new opportunities to expand my knowledge and skills, whether through online courses, workshops, or collaborative projects. I believe that the key to success in any field is a commitment to lifelong learning and a willingness to adapt to new technologies and methodologies.
 
 ## Get in Touch
 
-Are you looking to elevate your online presence or bring your digital ideas to life? I'd love to hear from you! Feel free to reach out for collaboration, consultation, or just a friendly chat about all things web development.
-
-_Let's build something amazing together!_
+Dev

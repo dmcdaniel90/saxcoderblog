@@ -7,8 +7,7 @@ import siteConfig from '../data/site-config';
 const navLinks = siteConfig.headerNavLinks || [];
 ---
 
-<nav class="min-h-10 pt-4 pb-12 relative sm:min-h-14 sm:pb-24 md:pt-8">
-    <Logo id="logo" class="absolute top-6 logo" />
+<nav class="min-h-10 pt-4 pb-12 relative sm:min-h-14 sm:pb-24 md:pt-8 flex">
     {
         navLinks.length > 0 && (
             <div class="w-full max-w-3xl mx-auto relative">
@@ -35,6 +34,7 @@ const navLinks = siteConfig.headerNavLinks || [];
             </div>
         )
     }
+    <Logo id="logo" class="w-20 h-20 logo absolute -top-0 left-1/2 right-1/2 -translate-x-1/2 md:top-2" />
     <div class="absolute right-0 top-4 z-10 md:top-8">
         <ThemeToggle />
     </div>

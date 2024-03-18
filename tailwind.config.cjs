@@ -11,9 +11,12 @@ module.exports = {
     extend: {
       textColor: {
         main: 'rgb(var(--color-text-main) / <alpha-value>)',
+        accent: 'rgb(var(--color-text-hero) / <alpha-value>)',
+        button: 'rgb(var(--color-text-button) / <alpha-value>)',
       },
       backgroundColor: {
         main: 'rgb(var(--color-bg-main) / <alpha-value>)',
+        button: 'rgb(var(--color-bg-button) / <alpha-value>)',
         muted: 'rgb(var(--color-bg-muted) / <alpha-value>)',
       },
       borderColor: {

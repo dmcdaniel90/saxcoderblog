@@ -43,8 +43,8 @@ const siteConfig: SiteConfig = {
   description:
     'A blog about journeying through the world of web development as a professional musician. Written by Devin McDaniel.',
   image: {
-    src: 'https://placehold.co/1200x628',
-    alt: 'Devin McDaniel - Developer, Musician, and Blogger',
+    src: '/hero.jpeg',
+    alt: 'Devin McDaniel - Developer and Musician',
   },
   headerNavLinks: [
     {
@@ -101,10 +101,10 @@ const siteConfig: SiteConfig = {
     },
   ],
   hero: {
-    title: 'Devin McDaniel - Developer, Musician, and Blogger',
+    title: 'Devin McDaniel Web Developer and Musician',
     text: "I'm **Devin McDaniel**, a web developer and saxophonist at from Texas, USA and now residing in the England, United Kingdom. When I am not waist deep in lines of code (or baby nappies), I entertain crowds playing saxophone for nightclubs and in bands around the country. Feel free to explore some of my coding endeavors on <a href='https://github.com/dmcdaniel90'>GitHub</a> or check out where I am playing next on <a href='https://www.instagram.com/devinmcdanielsax/'>Instagram</a>.",
     image: {
-      src: 'https://placehold.co/1200x800',
+      src: '/hero.jpeg',
       alt: 'Devin McDaniel - Developer, Musician, and Blogger',
     },
     actions: [

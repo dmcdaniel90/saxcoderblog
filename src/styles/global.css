@@ -4,20 +4,23 @@
 
 @layer base {
   :root {
-    --color-text-main: 23 23 23;
-    --color-bg-main: 242 241 236;
-    --color-bg-muted: 234 233 225;
-    --color-border-main: 23 23 23;
-    --color-logo: 23 23 23;
-    --color-logo-dark: 60 233 181;
+      --color-text-main: 58 66 56;
+      --color-bg-main: 243 239 230;
+      --color-bg-muted: 238 233 220;
+      --color-bg-button: 61 163 147;
+      --color-text-button: 239 238 187;
+      --color-border-main: 58 66 56;
+      --color-logo: 58 66 56;
+      --color-logo-dark: 61 163 147;
   }
-
   html.dark {
-    --color-text-main: 60 233 181;
-    --color-bg-main: 58 54 60;
-    --color-bg-muted: 187 181 183;
-    --color-border-main: 71 121 118;
-    --color-logo: 60 233 181;
+      --color-text-main: 239 238 187;
+      --color-text-hero: 61 163 147;
+      --color-bg-main: 48 42 53;
+      --color-bg-button: 61 163 147;
+      --color-text-button: 58 66 56;
+      --color-bg-muted: 89 103 86;
+      --color-border-main: 243 239 230;
   }
 
   .logo {
