@@ -6,11 +6,4 @@
 <path d="M50.6956 37.5652L45.1304 32V43.1304" stroke="black" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M34 43.1304H45.1304V48.6957L36.7826 51.4783L34 43.1304Z" stroke="black" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M19.9548 47L2 63.1538L19.9548 82M108.045 47L126 63.1538L108.045 82" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-    <style>
-        path { fill: #000; }
-        @media (prefers-color-scheme: dark) {
-            path { fill: #FFF; }
-        }
-    </style>
-
 </svg>
