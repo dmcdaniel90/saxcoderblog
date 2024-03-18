@@ -8,6 +8,8 @@
     --color-bg-main: 242 241 236;
     --color-bg-muted: 234 233 225;
     --color-border-main: 23 23 23;
+    --color-logo: 23 23 23;
+    --color-logo-dark: 60 233 181;
   }
 
   html.dark {
@@ -15,5 +17,13 @@
     --color-bg-main: 58 54 60;
     --color-bg-muted: 187 181 183;
     --color-border-main: 71 121 118;
+    --color-logo: 60 233 181;
+  }
+
+  .logo {
+    stroke: rgb(var(--color-logo));
+  }
+  .logo-dark {
+    stroke: rgb(var(--color-logo-dark));
   }
 }
