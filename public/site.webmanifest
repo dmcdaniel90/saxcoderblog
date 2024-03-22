@@ -1,0 +1,14 @@
+{
+    "name": "SaxCoder",
+    "short_name": "SaxCoder",
+    "icons": [
+        {
+            "src": "/android-chrome-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#77f9bf",
+    "background_color": "#77f9bf",
+    "display": "standalone"
+}
