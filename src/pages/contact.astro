@@ -1,0 +1,16 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ContactForm from '../components/ContactForm.tsx';
+
+---
+
+<BaseLayout title="Contact" description="Send me a message, ask a question, or share your thoughts. I'm all ears!">
+  <h1 class="mb-12 text-2xl leading-tight font-serif italic sm:mb-16 sm:text-4xl">Contact Me</h1>
+  <ContactForm client:only="react" />
+  <p class="mt-10 text-md leading-loose md:leading-10 sm:text-lg md:text-xl">
+    Thank you for visiting my website! If you have any questions, comments, or
+    feedback, please don't hesitate to reach out. I'm always happy to hear from
+    you and will do my best to respond as soon as possible.
+  </p>
+</BaseLayout>
+
