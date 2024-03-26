@@ -1,14 +1,57 @@
 {
-    "name": "SaxCoder",
-    "short_name": "SaxCoder",
-    "icons": [
-        {
-            "src": "/android-chrome-96x96.png",
-            "sizes": "96x96",
-            "type": "image/png"
-        }
-    ],
-    "theme_color": "#77f9bf",
-    "background_color": "#77f9bf",
-    "display": "standalone"
+  "name": "SaxCoder",
+  "short_name": "SaxCoder",
+  "start_url": "/",
+  "lang": "en",
+  "description": "SaxCoder - A Blog By Devin McDaniel",
+  "screenshots": [
+    {
+      "src": "/screenshot_wide.png",
+      "sizes": "1579x845",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "SaxCoder"
+    },
+    {
+      "src": "/screenshot.png",
+      "sizes": "490x883",
+      "type": "image/png",
+      "label": "SaxCoder"
+    }
+  ],
+  "icons": [
+    {
+      "src": "/android-chrome-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo_128x128.png",
+      "sizes": "130x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo_256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
+      "src": "/mstile-150x150.png",
+      "sizes": "270x270",
+      "type": "image/png"
+    },
+    {
+      "src": "safari-pinned-tab.svg",
+      "sizes": "173x173",
+      "type": "image/svg+xml"
+    }
+  ],
+  "theme_color": "#77f9bf",
+  "background_color": "#77f9bf",
+  "display": "standalone"
 }

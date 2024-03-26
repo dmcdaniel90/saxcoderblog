@@ -9,5 +9,8 @@
   },
   "tailwindCSS.includeLanguages": {
     "astro": "html"
+  },
+  "markdownlint.config": {
+    "MD033": false
   }
 }

@@ -1,0 +1,63 @@
+---
+title: 'Choosing Simplicity Over Complexity'
+excerpt: 'In a world of ever-increasing complexity, it is important to remember that sometimes the simplest solution is the best; especially when it comes to web development.'
+publishDate: 'March 26 2024'
+tags:
+  - Web Development
+  - Best Practices
+  - Projects
+isFeatured: true
+seo:
+  image:
+    src: './assets/post-2.jpg'
+    alt: Inside of an aircraft cockpit with many buttons and switches
+---
+
+import { Image } from 'astro:assets';
+import aircraft from '../../assets/post-2.jpg';
+import hammer from '../../assets/post-2a.webp';
+
+<Image
+  src={aircraft}
+  alt="Inside of an aircraft cockpit with many buttons and switches"
+/>
+
+## A Quote
+
+I'm not sure if this is a saying outside of the US, but we have a saying that goes, "Theres many ways to skin a cat." While I'm not sure where this saying comes from, it is a good reminder that there are many ways to solve a problem. However, in the world of web development, it is easy to get caught up in the latest and greatest technologies and forget that sometimes the simplest solution is the best.
+
+## The Problem
+
+Depending on when you read this, you may notice that the contact form on this blog is a bit...well, not functioning. As I reached the end of this blog project and was preparing to launch, I had the wonderful idea to create a custom contact form using <a href="https://preactjs.com" target="_blank">Preact</a> and <a href="https://react-hook-form.com" target="_blank">React Hook Form</a>. Seemed easy enough, right?
+
+Did I mention I built this site with <a href="https://astro.build" target="_blank">Astro</a>? And that I have never used Astro before? And that I have never used Preact before? And that I have never used React Hook Form before?
+
+Keep in mind, I am still basically junior at this point. I have only been coding for about 1 1/2 years and have only been working as a web developer for a few months. I have a lot to learn.
+
+## A Tangled Mess of Complexity
+
+So, I set out build this contact form. I started by mocking up the design in Figma, making sure it was responsive and adhered to basic design principles. I then took my time to read the documentation on Astro for creating the Preact integration (easy). Then came the React Hook Form integration (slightly harder, but no problemo). I spun up the dev server and the form rendered; cool (note I didn't say "worked").
+
+Oh, and then since I was writing JSX, I had to make sure I "simplified" the form to use resuable components, like TextInputField, TextAreaField, etc that took in props. Ah and I had to validate those props using Typescript; I mean it's built in to Astro and I know some basic Typescript, so why the heck not? (I'm sure you see where this is going).
+
+<Image src={hammer} alt="Hitting a landmine with a hammer" />
+
+_Looks safe to me_
+
+## Testing, Testing, 1, 2, 3
+
+I then spent the next few days trying to get the form to work. I was able to get the form to render, but I couldn't get the form to submit. I tried everything I could think of, but I just couldn't get it to work. I was about to give up when I remembered a saying I heard from a developer on Twitter: "Sometimes the simplest solution is the best."
+
+But, that was only after implementing the Netlify SSR adapter, setting up a Netlify function, trying Netlify Forms, realising the form was registering a submission, but not sending the data, and finally getting frustrated I was spending so much time on what was supposed to be a simple form.
+
+## The Simple Solution
+
+I decided to scrap the custom form and use a simple form with Netlify Forms. I created a new form, added the Netlify attribute, and submitted the form. It worked. I was able to submit the form and receive the data in my Netlify dashboard. I was so happy that I was able to get the form to work, but I was also a little disappointed that I spent so much time trying to get the custom form to work.
+
+## Conclusion
+
+I learned three things from this brief experience.
+
+1. Build from simplicity, not from complexity. Features are great, but they should not come at the cost of usability and maintainability.
+2. Learn new technologies in isolation. I should have spent more time learning Astro and Preact before trying to build a custom form.
+3. Git is your friend. I was able to easily revert back to a previous commit when I decided to scrap the custom form. This saved me a lot of time and headache.
