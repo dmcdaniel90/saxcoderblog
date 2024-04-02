@@ -40,10 +40,4 @@ collections:
           - label: 'Image'
             name: 'image'
             widget: 'image'
-            fields:
-              - label: 'Src'
-                name: 'src'
-                widget: 'string'
-              - label: 'Alt'
-                name: 'alt'
-                widget: 'string'
+            fields: [src, alt]
