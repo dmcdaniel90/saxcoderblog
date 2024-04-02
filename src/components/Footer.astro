@@ -43,4 +43,15 @@ const navLinks = siteConfig.footerNavLinks || [];
             &copy; {new Date().getFullYear()}&nbsp;<a class="hover:underline hover:underline-offset-2" href="/">{siteConfig.title}</a>. All rights reserved.
         </p>
     </div>
+    <script is:inline>
+        if (window.netlifyIdentity) {
+            window.netlifyIdentity.on('init', (user) => {
+                if (!user) {
+                    window.netlifyIdentity.on('login', () => {
+                        document.location.href = '/admin/';
+                    });
+                }
+            });
+        }
+    </script>
 </footer>
