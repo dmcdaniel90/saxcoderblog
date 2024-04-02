@@ -40,4 +40,6 @@ collections:
           - label: 'Image'
             name: 'image'
             widget: 'image'
-            fields: [src, alt]
+            fields:
+              - { label: 'Source', name: 'src', widget: 'string' }
+              - { label: 'Alt', name: 'alt', widget: 'string' }
