@@ -37,23 +37,17 @@ collections:
           label: 'SEO',
           name: 'seo',
           widget: 'object',
-          fields: [
-            {
-              name: 'image',
-              label: 'Image',
-              widget: 'object',
-              fields: [
-                {
-                  name: 'src',
-                  label: 'Image Source',
-                  widget: 'string',
-                },
-                {
-                  name: 'alt',
-                  label: 'Alt Text',
-                  widget: 'string',
-                },
-              ],
-            },
-          ],
-        },
+          fields:
+            [
+              {
+                label: 'Image',
+                name: 'image',
+                widget: 'object',
+                fields:
+                  [
+                    { label: 'Source', name: 'src', widget: 'string' },
+                    { label: 'Alt Text', name: 'alt', widget: 'string' },
+                  ],
+              },
+            ],
+        }
