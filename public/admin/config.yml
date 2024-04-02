@@ -3,8 +3,7 @@
 backend:
   name: git-gateway
   repo: dmcdaniel90/saxcoderblog
-  branch: add-cms
-branch: add-cms
+  branch: main
 
 # Path: public/admin/
 media_folder: 'public/' # Media files will be stored in the repo under uploads
