@@ -17,6 +17,6 @@ content: |-
   ```
 seo:
   image:
-    src: https://picsum.photos/300/200
-    alt: Random Image
+    src: 'https://picsum.photos/300/200'
+    alt: 'Random Image'
 ---
