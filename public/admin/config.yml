@@ -1,0 +1,36 @@
+# Set up the Netlify CMS to use the Git Gateway for authentication
+
+backend:
+  name: git-gateway
+  repo: dmcdaniel90/saxcoderblog
+  branch: add-cms
+branch: add-cms
+
+# Path: public/admin/index.html
+media_folder: 'public/' # Media files will be stored in the repo under uploads
+public_folder: '/' # Media files will be served from the repo under /uploads
+
+collections:
+  - name: 'blog'
+    label: 'Blog'
+    folder: 'src/content/blog'
+    create: true
+    slug: '{{slug}}'
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Excerpt', name: 'excerpt', widget: 'text', optional: true }
+      - { label: 'Publish Date', name: 'publishDate', widget: 'datetime' }
+      - {
+          label: 'Updated Date',
+          name: 'updatedDate',
+          widget: 'datetime',
+          optional: true,
+        }
+      - {
+          label: 'Is Featured',
+          name: 'isFeatured',
+          widget: 'boolean',
+          default: false,
+        }
+      - { label: 'Tags', name: 'tags', widget: 'list' }
+      - { label: 'Content', name: 'content', widget: 'markdown' }
