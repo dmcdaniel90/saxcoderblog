@@ -12,8 +12,6 @@ content: |-
 
   > This is a test, check it out!
 
-
-
   ```javascript
   //I can also create code blocks here
 
