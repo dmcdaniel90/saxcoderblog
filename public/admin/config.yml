@@ -18,7 +18,7 @@ collections:
     slug: '{{slug}}'
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Excerpt', name: 'excerpt', widget: 'text', optional: true }
+      - { label: 'Excerpt', name: 'excerpt', widget: 'string', optional: true }
       - { label: 'Publish Date', name: 'publishDate', widget: 'datetime' }
       - {
           label: 'Updated Date',
@@ -34,3 +34,17 @@ collections:
         }
       - { label: 'Tags', name: 'tags', widget: 'list' }
       - { label: 'Content', name: 'content', widget: 'markdown' }
+      - label: 'SEO'
+        name: 'seo'
+        widget: 'object'
+        fields:
+          - label: 'Image'
+            name: 'image'
+            widget: 'image'
+            fields:
+              - label: 'Src'
+                name: 'src'
+                widget: 'string'
+              - label: 'Alt'
+                name: 'alt'
+                widget: 'string'
