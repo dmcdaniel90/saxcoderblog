@@ -6,7 +6,7 @@ backend:
   branch: add-cms
 branch: add-cms
 
-# Path: public/admin/index.html
+# Path: public/admin/
 media_folder: 'public/' # Media files will be stored in the repo under uploads
 public_folder: '/' # Media files will be served from the repo under /uploads
 
