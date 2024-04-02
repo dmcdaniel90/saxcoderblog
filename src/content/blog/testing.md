@@ -5,8 +5,8 @@ publishDate: 2024-04-02T19:36
 updatedDate: 2024-04-02T19:36
 isFeatured: true
 tags:
-  - '"test"'
-  - '"web_development"'
+  - 'test'
+  - 'web development'
 content: |-
   ## Testing Decap CMS
 
@@ -16,5 +16,7 @@ content: |-
   console.log('hello world')
   ```
 seo:
-  image: https://picsum.photos/300/200
+  image:
+    src: https://picsum.photos/300/200
+    alt: Random Image
 ---
