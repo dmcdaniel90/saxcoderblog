@@ -10,8 +10,8 @@ tags:
   - finding balance
 seo:
   image:
-    alt: Finding Balance - The first post in a series about work/life balance
-    src: /post-3.jpg
+    alt: "null"
+    src: "null"
 ---
 ![A spinning top](post-3.jpg)
 
