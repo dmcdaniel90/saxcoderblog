@@ -10,8 +10,8 @@ tags:
   - finding balance
 seo:
   image:
-    alt: "null"
-    src: "null"
+    alt: Finding Balance - The first post in a series about work/life balance
+    src: /post-3.jpg
 ---
 ![A spinning top](post-3.jpg)
 
@@ -35,6 +35,22 @@ I love creative work that challenges me mentally. So when I find something I'm i
 
 > Check out a bit of what I did:
 >
-> * [https://drive.google.com/file/d/1flDmAoLqq9CnlQh8XZDC7NoktAV7lpfw/view?usp=drive_link](EWI - An Electronic 'Saxophone')
-> * [https://www.youtube.com/watch?v=DW4AEC8Eodg](Ain't Nobody - DMAC Remix)
-> * [https://on.soundcloud.com/d1yeyAuskHjhzQcs70](Cat Rat Dog - DMAC)
+> * [EWI - An Electronic 'Saxophone'] (https://drive.google.com/file/d/1flDmAoLqq9CnlQh8XZDC7NoktAV7lpfw/view?usp=drive_link)
+> * ["Ain't Nobody" (DMAC Remix)](https://www.youtube.com/watch?v=DW4AEC8Eodg) 
+> * ["Cat Rat Dog"](https://on.soundcloud.com/d1yeyAuskHjhzQcs70)
+
+### Reality Sets In
+
+As the months passed and the cost of living rose, two very important things occurred in my life in pretty quick succession. One, I became known in the area as a gigging musician, leading to me booking a residency at a local nightclub, and more importantly...I became a father. A challenge in and of itself, my son was also born very prematurely and we weren't able to leave the hospital for about four months. I was also working as a supply teacher and taking the bus everywhere as I did not have my UK driver's license yet, so time was short and money even shorter.
+
+[Playing dance music on the sax at the nightclub](sax-1.jpg)
+
+### Zero to Mastery
+
+Aside from making music, the only other thing I knew I was capable of doing well and enjoying was working with something computer related. I had heard of coding being something many musicians (including my former schoolmates) went into, and the pay potential looked great, so I started with freeCodeCamp. I'll be honest, I learned a bit, but I really didn't start understanding things until I took a free trial of Frontend Masters, followed by enrolling in Zero to Mastery in September 2023.
+
+### Then and Now
+
+So where are we now? I recently got my first tech job with a startup building their websites, I perform at least once a week in clubs/events/weddings around the country, my son has his first tooth coming through, and somehow I'm still married (to the most patient woman on Earth).
+
+The road is long, but not to jinx it; things might be looking up.
