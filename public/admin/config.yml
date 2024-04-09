@@ -31,6 +31,7 @@ collections:
           widget: 'boolean',
           default: false,
         }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Tags', name: 'tags', widget: 'list' }
       - {
           label: 'SEO',
@@ -50,4 +51,3 @@ collections:
               },
             ],
         }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
