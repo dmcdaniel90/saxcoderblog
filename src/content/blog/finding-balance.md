@@ -13,6 +13,6 @@ seo:
     alt: "null"
     src: "null"
 ---
-![A spinning top](post-3.jpg)
+# Finding Balance
 
-# Post 3
+![A spinning top](post-3.jpg)
