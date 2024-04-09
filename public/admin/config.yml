@@ -4,6 +4,10 @@ backend:
   name: git-gateway
   repo: dmcdaniel90/saxcoderblog
   branch: main
+  squash_merges: true
+
+# Setting the publish mode to editorial workflow
+publish_mode: editorial_workflow
 
 # Path: public/admin/
 media_folder: 'public/' # Media files will be stored in the repo under uploads
@@ -15,6 +19,8 @@ collections:
     folder: 'src/content/blog'
     create: true
     slug: '{{slug}}'
+    media_folder: ''
+    public_folder: ''
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Excerpt', name: 'excerpt', widget: 'string', optional: true }
