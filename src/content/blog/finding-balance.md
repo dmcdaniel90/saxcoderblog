@@ -10,9 +10,10 @@ tags:
   - finding balance
 seo:
   image:
-    alt: "null"
-    src: "null"
+    alt: 'A spinning top on a wooden table'
+    src: '/post-3.jpg'
 ---
+
 ![A spinning top](post-3.jpg)
 
 ## About this series
@@ -23,7 +24,7 @@ I intend for this to be a long-running series that really just describes my life
 
 Rewind back to 2020. While the world began to fall apart from the Covid-19 pandemic, I was blissfully unaware that March as I circumnavigated around Australia as a saxophonist on the M/S Radiance of the Seas. I had come back to cruise ship work after leaving the US, while my wife, Abi moved our things back to her home in the UK to help prepare for my immigration. So you can imagine the confusion when we made it back to Sydney, disembarked all of our guests, and were promptly told to leave port. Long story short, we spent two months at sea with no flights home, a ship full of booze, and plenty of solitary quarantine time to enjoy it all.
 
-![The M/S Radiance of the Seas](radiance.jpg "Yes, like Below Deck.")
+![The M/S Radiance of the Seas](radiance.jpg 'Yes, like Below Deck.')
 
 ### A New Home
 
@@ -35,9 +36,9 @@ I love creative work that challenges me mentally. So when I find something I'm i
 
 > Check out a bit of what I did:
 >
-> * [EWI - An Electronic 'Saxophone'] (https://drive.google.com/file/d/1flDmAoLqq9CnlQh8XZDC7NoktAV7lpfw/view?usp=drive_link)
-> * ["Ain't Nobody" (DMAC Remix)](https://www.youtube.com/watch?v=DW4AEC8Eodg) 
-> * ["Cat Rat Dog"](https://on.soundcloud.com/d1yeyAuskHjhzQcs70)
+> - [EWI - An Electronic 'Saxophone'](https://drive.google.com/file/d/1flDmAoLqq9CnlQh8XZDC7NoktAV7lpfw/view?usp=drive_link)
+> - ["Ain't Nobody" (DMAC Remix)](https://www.youtube.com/watch?v=DW4AEC8Eodg)
+> - ["Cat Rat Dog"](https://on.soundcloud.com/d1yeyAuskHjhzQcs70)
 
 ### Reality Sets In
 
