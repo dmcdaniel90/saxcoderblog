@@ -5,7 +5,7 @@ title: Robofriends
 
 **Publish Date:** March 26 2024
 
-![A React project that searches through a list of robots generated from the RoboHash API](../../assets/robofriends.png)
+![A React project that searches through a list of robots generated from the RoboHash API](robofriends.png)
 
 **Project Overview:**
 
