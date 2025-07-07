@@ -63,3 +63,13 @@ collections:
               },
             ],
         }
+  - name: 'pages'
+    label: 'Pages'
+    folder: 'src/content/pages'
+    create: true
+    slug: '{{slug}}'
+    media_folder: ''
+    public_folder: ''
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
