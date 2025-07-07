@@ -5,8 +5,6 @@ title: Robofriends
 
 **Publish Date:** March 26 2024
 
-![A React project that searches through a list of robots generated from the RoboHash API](../../assets/robofriends.png)
-
 **Project Overview:**
 
 Robofriends is a React project that searches through a list of robots generated from the RoboHash API. Users can filter the robots by name and view their details, including email addresses. The project demonstrates the use of React components, state management, and API integration.
