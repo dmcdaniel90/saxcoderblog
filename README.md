@@ -1,6 +1,7 @@
+
 # Saxcoder Blog
 
-A modern, performant Astro + Preact + Tailwind CSS blog, deployed on Netlify, with content managed via Decap CMS.
+A modern, performant Astro + Preact + Tailwind CSS blog, deployed on Netlify, with content managed via Netlify CMS.
 
 ---
 
@@ -11,7 +12,7 @@ A modern, performant Astro + Preact + Tailwind CSS blog, deployed on Netlify, wi
 - [Configuration](#configuration)
   - [Astro Config](#astro-config-astroconfigmjs)
   - [Tailwind CSS Config](#tailwind-css-config-tailwindconfigcjs)
-  - [Decap CMS Config](#decap-cms-config-publicadminconfigyml)
+  - [Netlify CMS Config](#netlify-cms-config-publicadminconfigyml)
 - [Development](#development)
 - [Deployment](#deployment)
 - [License](#license)
@@ -24,7 +25,7 @@ A modern, performant Astro + Preact + Tailwind CSS blog, deployed on Netlify, wi
 - **Preact** for fast, lightweight interactivity
 - **Tailwind CSS** for utility-first styling
 - **MDX** for rich content
-- **Decap CMS** for content management
+- **Netlify CMS** for content management
 - **Shiki** syntax highlighting
 - **SEO**-friendly and accessible
 
@@ -125,7 +126,7 @@ module.exports = {
 
 ---
 
-### Decap CMS Config (`public/admin/config.yml`)
+### Netlify CMS Config (`public/admin/config.yml`)
 
 - **Backend:** Uses Git Gateway for authentication, commits to `main` branch
 - **Publish Mode:** Editorial workflow (drafts, review, publish)
