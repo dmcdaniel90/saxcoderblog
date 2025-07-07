@@ -1,3 +1,6 @@
+---
+title: Robofriends
+---
 # Robofriends
 
 **Description:** A React project that searches through a list of robots generated from the RoboHash API.
