@@ -23,16 +23,18 @@ I'll go into more detail about the project in another post, but today I want to 
 
 I have a function `parseCsvToJson` that uses a utility function called `blankline` to simply log a blank line to the console. I have this utility function in a file called `functions.ts`, containing other functions I may need. This works, but it means that the `parseCsvToJson` function is dependent on `functions.ts`.
 
-```ts
+```typescript
 import { blankLine } from '../functions.js'
 
 export default function parseCsvToJson(filePath: string) {
     // Code...
-}
+}f
 ```
 
 ### Dynamic imports
-```ts
+
+```typescript
 const { blankLine } = await import('../functions.js')
 
 ### Conditional Operators
+```
